@@ -1,0 +1,15 @@
+{
+    "args": 
+    {
+    "startX": 0,
+    "startY": 0,
+    "direction": "-z",
+    "renderDistance": 3,
+    "port": 52119
+    },
+    "login":
+    {
+    "username": "",
+    "password": ""
+    }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "egapfinderrat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@node-minify/core": "^6.2.0",
+    "@node-minify/google-closure-compiler": "^6.2.0",
+    "@node-minify/uglify-js": "^6.2.0",
+    "discord.js": "^12.5.1",
+    "minecraft-data": "^2.74.0",
+    "mineflayer": "^2.40.1",
+    "pkg": "^4.4.9",
+    "public-ip": "^4.0.3"
+  }
+}
